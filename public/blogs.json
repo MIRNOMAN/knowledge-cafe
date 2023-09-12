@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/56yW9rC/2.png",
+      "title": "The Mystery of the Lost Key, The Mystery of the Lost Key",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/Y7Jmq6M/boy1.png",
+      "posted_date": "2023-09-10",
+      "reading_time": 45,
+      "hashtags": ["mystery", "puzzle", "adventure"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/dKYKckq/3.png",
+      "title": "Fantasy World Chronicles Fantasy World Chronicles",
+      "author": "David Smith",
+      "author_img": "https://i.ibb.co/G3WMZqn/boy2.jpg",
+      "posted_date": "2023-09-09",
+      "reading_time": 60,
+      "hashtags": ["fantasy", "magic", "epic"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/ZWX4LZf/4.jpg",
+      "title": "Romance by the Sea Romance by the Sea",
+      "author": "Sophia Anderson",
+      "author_img": "https://i.ibb.co/LCZXMcn/girl1.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": 30,
+      "hashtags": ["romance", "love", "beach"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/QbG7T5s/1.jpg",
+      "title": "Sci-Fi Adventures: Time Travelers Sci-Fi Adventures: Time Travelers",
+      "author": "James Turner",
+      "author_img": "https://i.ibb.co/4TMLsHB/girl2.jpg",
+      "posted_date": "2023-09-07",
+      "reading_time": 75,
+      "hashtags": ["scifi", "timetravel", "future"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/ZWX4LZf/4.jpg",
+      "title": "Historical Secrets Unveiled Historical Secrets Unveiled",
+      "author": "Emma White",
+      "author_img": "https://i.ibb.co/4TMLsHB/girl2.jpg",
+      "posted_date": "2023-09-06",
+      "reading_time": 55,
+      "hashtags": ["history", "secrets", "discovery"]
+    }
+  ]
+  
